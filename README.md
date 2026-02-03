@@ -32,7 +32,7 @@
 - Tech Stack: *C#, .NET, SQL, Git*  
 
 🔗 **View Project:**  
-https://github.com/<YOUR_GITHUB_USERNAME>/Streamify
+https://github.com/SaryuMalik/stream-Learn
 
 ---
 
